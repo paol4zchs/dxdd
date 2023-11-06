@@ -25,7 +25,7 @@ function aleatorio(){
       img.innerHTML = "<img src=\"imgsombra/jigglypuff.png\">";       
     }
     else if(num == 7){
-      img.innerHTML = "<img src=\"imgsombra/mewtwo.png\">";       
+      img.innerHTML = "<img src=\"imgsombra/meow.png\">";       
     }
     else if(num == 8){
       img.innerHTML = "<img src=\"imgsombra/vulpix.png\">";
